@@ -1,0 +1,16 @@
+PODS:
+  - YLBDServices (0.1.0)
+
+DEPENDENCIES:
+  - YLBDServices (from `../`)
+
+EXTERNAL SOURCES:
+  YLBDServices:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLBDServices: 7a3ac8000b966fdc07c6b7f147cdc8779fe76bd6
+
+PODFILE CHECKSUM: 35ec6e706576121084aaa5c52332c90e183eaeae
+
+COCOAPODS: 1.11.2

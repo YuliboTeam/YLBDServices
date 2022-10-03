@@ -1,0 +1,6 @@
+framework module Pods_YLBDServices_Example {
+  umbrella header "Pods-YLBDServices_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
